@@ -1,16 +1,27 @@
-## Hi there 👋
+## std::cout << "Hello World, I'm Gani";
 
-<!--
-**Kekwdyne/Kekwdyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Programmer | Game Designer | Level Designer**
 
-Here are some ideas to get you started:
+I build the code base for the entire game using my own scripts instead of relying on the default ones. I also pay attention to certain design patterns (builder, oberver) since they're more aligned with game dev.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Game Engines**
+- Unity (ver. 2021+)
+- Unreal Engine 5
+- Godot
+
+**Backend**
+- Microsoft Visual Studio (2022+)
+- VS Code
+
+**Git**
+- Fork
+
+# Featured Projects
+- Chop Chop!: https://senshilabs.itch.io/chopchop
+- Bear Necessities: https://cartridgetilt.itch.io/bear-necessities
+
+# Socials
+- Email: coelfactora@gmail.com
+- LinkedIn: https://www.linkedin.com/in/isagani-coel-m-factora-59944829a/
